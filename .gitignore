@@ -33,7 +33,11 @@ build/
 .vscode/
 .env
 *.class
-../.idea
+.idea
+./blueBus/.mvn
+./blueBus/target
+./blueBus/mvnw
+./blueBus/mvnw.cmd
 HELP.md
 mvnw.cmd
 mvnw
