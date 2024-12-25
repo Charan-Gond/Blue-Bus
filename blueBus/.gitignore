@@ -33,5 +33,11 @@ build/
 .vscode/
 .env
 *.class
-/External Libraries
+../.idea
+HELP.md
+mvnw.cmd
+mvnw
+.mvn
+./src/test
+
 
